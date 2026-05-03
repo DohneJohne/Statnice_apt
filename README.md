@@ -1,0 +1,1 @@
+Složka "vlastni dokumenty" beru jako něco, kde budem shromažďovat věci, který se dělali mimo ty pdf... například já tam mám ten word Hydrauliky, protože jsem to do toho PDF pak musel mergovat... zároveň je tam i původní verze Technických prostředků bez hydrauliky
